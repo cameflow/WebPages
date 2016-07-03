@@ -1,0 +1,118 @@
+.navbar-brand {
+  padding-top: 10px !important;
+}
+
+.navbar {
+  background-color: white !important;
+}
+
+.carousel-caption h1{
+  font-size: 5em;
+  margin-bottom: 30%;
+}
+
+.thumbnails {
+  height: 100%;
+}
+
+.about-us {
+  background-image: url('../img/about-bg.jpg') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 15%;
+  text-align: center;
+}
+
+.about-us h1 {
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 5em;
+}
+.about-us p{
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 1.5em;
+}
+
+.paquete {
+  text-align: center;
+  padding-bottom: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 20px;
+}
+.paquete i{
+  font-size: 5em;
+}
+.paquete i:hover{
+  font-size: 7em;
+}
+.paquete .row{
+  padding-top: 5%;
+}
+
+.investment {
+  background-image: url('../img/investment.jpg') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 15%;
+  text-align: center;
+}
+
+.investment h1 {
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 5em;
+}
+.investment p{
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 1.5em;
+}
+
+.contact {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.contact h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+.contact input {
+  border-radius: 0px;
+}
+
+.contact textarea {
+  height: 130px !important;
+  border-radius: 0px;
+}
+
+.contact button {
+  width: 100%;
+  color: white;
+  background-color: black;
+  border-radius: 0px;
+}
+.contact button:hover {
+  color: red;
+  border: 1px solid red;
+  border-radius: 0px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
